@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Sandra 👋
 [![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssandra102)](https://github.com/ssandra102/github-readme-stats)
 <!--
 **ssandra102/ssandra102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
