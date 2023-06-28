@@ -1,4 +1,5 @@
 ### Hi there, Im Sandra 👋
+![](https://komarev.com/ghpvc/?username=ssandra102)
 - 🔭 I’m currently working on a Time Series Analysis Project 
 - 🌱 I’m currently learning Machine Learning Systems Design 
 <!--
