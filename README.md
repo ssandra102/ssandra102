@@ -1,7 +1,7 @@
 ### Hi there, Im Sandra 👋
 <!-- ![](https://komarev.com/ghpvc/?username=ssandra102) -->
-- 🔭 I’m currently working on a Time Series Analysis Project 
-- 🌱 I’m currently learning Machine Learning Systems Design 
+- 🔭 I’m currently working on a MLOps project.
+- 🌱 I’m currently learning Machine Learning Systems Design
 <!--
 [![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssandra102)](https://github.com/ssandra102/github-readme-stats)
 
