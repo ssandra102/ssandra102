@@ -8,6 +8,7 @@
 :bulb: Let's talk -- Artificial Intelligence -- Machine Learning -- Data Science <br>
 :coffee: Let's brew something new -- sandra.skaria86@gmail.com  <br>
 
+<!--
 Cloud:
 <span>
 <img style="margin: 0 10px" src="./images/aws.svg?raw=true" alt="AWS" height="25px" width="25px"></img>
@@ -73,7 +74,7 @@ Game Engines:
 <span>
 <img style="margin: 0 10px" src="./images/unity.svg?raw=true" alt="Unity" height="25px" width="25px"></img>
 </span>
-
+-->
 <br />
 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
