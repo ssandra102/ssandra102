@@ -1,7 +1,7 @@
 ### Hi there, Im Sandra 👋 <br>
 #### [Visit Portfolio](https://ssandra102.github.io/)
 
-- ![](https://komarev.com/ghpvc/?username=ssandra102)<br>
+<!-- - ![](https://komarev.com/ghpvc/?username=ssandra102)<br>-->
 - 🔭 I’m currently working on a MLOps project.
 - 🌱 I’m currently learning Machine Learning Systems Design <br>
 
